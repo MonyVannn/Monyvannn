@@ -9,7 +9,7 @@ Hey web-heads! I'm a sophomore swinging through the coding chaos, with 2+ years 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![VueJS](https://img.shields.io/badge/vuejs-%2300000f.svg?style=for-the-badge&logo=vuejs&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 # 📊 GitHub Stats:
-![Monyvann's GitHub stats](https://streak-stats.demolab.com?user=MonyVannn&theme=radical)
+![Monyvann's GitHub stats](https://streak-stats.demolab.com?user=MonyVannn&theme=radical&exclude_days=Sun%2CSat)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MonyVannn&icon=0&color=0)](https://visitcount.itsvg.in)
