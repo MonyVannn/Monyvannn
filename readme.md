@@ -5,7 +5,7 @@
 Hey web-heads! I'm a junior swinging through the coding chaos, with 2+ years of software spidey skills. Currently untangling the web as I pursue a Computer Science Major and spin SaaS wonders with Virlia. Catch me coding and cracking jokes – with great debugging power comes great responsibility!<br><br>Gaming guru, book buff, and a melody maestro on keys and strings. Living life in pixels, prose, and musical notes.
 
 ## 📊 GitHub Stats & 💻 Tech Stack:
-<a href="https://github.com/MonyVannn"><img width="880" src="https://streak-stats.demolab.com?user=MonyVannn&theme=dark&exclude_days=Sun%2CSat"></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MonyVannn&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <br></br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=MonyVannn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  
