@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <img align="right" alt="coding" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlvZnBrOHZ0dGFpeG95ODU1czMyN3Zhb3R5amp2ZXJwbzFjb3VxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nMy8HTFQRWpudNwbxQ/giphy.webp">
-Hey web-heads! I'm a junior swinging through the coding chaos, with 2+ years of software spidey skills. Currently untangling the web as I pursue a Computer Science Major and spin SaaS wonders with Virlia. Catch me coding and cracking jokes – with great debugging power comes great responsibility!<br><br>Gaming guru, book buff, and a melody maestro on keys and strings. Living life in pixels, prose, and musical notes.
+As a Computer Science junior with over three years of hands-on experience in software development, I specialize in fullstack development. I am passionate about writing elegant code and untangling complex problems, always with an eye for efficiency and innovation. Beyond my technical pursuits, I find inspiration in diverse interests such as gaming, literature, and making music on the piano and guitar. I believe in continuous learning and bringing a well-rounded perspective to every project.
 
 ## 📊 GitHub Stats & 💻 Tech Stack:
  <img width="50%" src="https://streak-stats.demolab.com?user=MonyVannn&theme=dark&exclude_days=Sun%2CSat"></a>
